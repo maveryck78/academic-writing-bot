@@ -1,6 +1,0 @@
-
-# task tracker bot
-asana_tracker_bot/.env
-asana_tracker_bot/.venv/
-__pycache__/
-.pytest_cache/
